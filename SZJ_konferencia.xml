@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<konferencia>
+    <cim id="k1-c" val="Python programozás 1."/>
+    <hallgatok>
+        <hallgato>
+            <nev id="h1-n" val="Szabó János"/>
+            <lakcim id="h1-c" val="Miskolc, István utca 20."/>
+        </hallgato>
+        <hallgato>
+            <nev id="h2-n" val="Szabó Péter"/>
+            <lakcim id="h2-c" val="Miskolc, Tömös utca 65."/>
+        </hallgato>
+    </hallgatok>
+    <helyszin  id="k1-h" val="Miskolc, IMre u 20"/>
+    <eloado>
+        <nev id="k1-ea-1" val="Tanár Béla"/>
+        <adoszam id="k1-asz-1" val="83875688441"/>
+        <lakcim id="k1-lc-1" val="Nyíregyháza, KOssuth u 10."/>
+    </eloado>
+    <datum/>
+</konferencia>
