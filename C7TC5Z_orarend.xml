@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orarend>
+    <ora id="1" tipus="Elmélet">
+        <targy>Számítógép hálózatok üzemeltetése</targy>
+        <idopont>
+            <nap>2022.10.07</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/102</helyszin>
+        <oktato>Wagner György</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>  
+    <ora id="2" tipus="Elmélet">
+        <targy>Számítógép hálózatok üzemeltetése</targy>
+        <idopont>
+            <nap>2022.10.08</nap>
+            <tol>08:30</tol>
+            <ig>11:50</ig>
+        </idopont>
+        <helyszin>In/102</helyszin>
+        <oktato>Wagner György</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>    
+    <ora id="3" tipus="Elmélet">
+        <targy>Korszerű információs technológiák</targy>
+        <idopont>
+            <nap>2022.10.08</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/103</helyszin>
+        <oktato>Tompa Tamás IAL</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>    
+    <ora id="4" tipus="Elmélet">
+        <targy>Korszerű információs technológiák</targy>
+        <idopont>
+            <nap>2022.10.22</nap>
+            <tol>12:20</tol>
+            <ig>15:40</ig>
+        </idopont>
+        <helyszin>In/102</helyszin>
+        <oktato>Tompa Tamás IAL</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>    
+    <ora id="5" tipus="Elmélet">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2022.10.21</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>    
+    <ora id="6" tipus="Elmélet">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2022.11.18</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+</orarend>
