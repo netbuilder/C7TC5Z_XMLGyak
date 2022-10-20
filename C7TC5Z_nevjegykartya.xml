@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nevjegykartyak>
+    <nevjegykartya id="1">
+        <nev>Próba Elek</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>4028</iranyitoszam>
+                <varos>Debrecen</varos>
+                <utca>Szeles</utca>
+                <hazszam>10</hazszam>
+            </cim>
+            <nev>Próba Kft</nev>
+            <telefonszam korzet="52">436411</telefonszam>
+            <weblap>http://www.proba.hu</weblap>
+        </ceg>
+        <beosztas>Ügyvezető</beosztas>
+        <telefonszam korzet="52">436612</telefonszam>
+        <email>info@probakft.hu</email>        
+    </nevjegykartya>
+    <nevjegykartya id="2">
+        <nev>Próba Péter</nev>
+        <ceg>
+            <cim>
+                <iranyitoszam>3529</iranyitoszam>
+                <varos>Miskolc</varos>
+                <utca>Kossuth</utca>
+                <hazszam>10</hazszam>
+            </cim>
+            <nev>Alarm Kft</nev>
+            <telefonszam korzet="46">422100</telefonszam>
+            <weblap>http://www.proba.hu</weblap>
+        </ceg>
+        <beosztas>Termelésvezető</beosztas>
+        <telefonszam korzet="46">422101</telefonszam>
+        <email>info@alarm.hu</email>        
+    </nevjegykartya>    
+</nevjegykartyak>
